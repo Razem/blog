@@ -1,0 +1,89 @@
+# The layout text of site
+
+# ----- Commons label -----
+
+layout:
+  post: Článek
+  category: Kategorie
+  tag: Štítek
+
+# The tabs of sidebar
+tabs:
+  # format: <filename_without_extension>: <value>
+  home: Domů
+  categories: Kategorie
+  tags: Štítky
+  archives: Archív
+  about: Cože?
+
+# the text displayed in the search bar & search results
+search:
+  hint: hledat
+  cancel: Zrušit
+  no_results: Hupsík dupsík! Nic to nenašlo.
+
+panel:
+  lastmod: Nedávno aktualizováno
+  trending_tags: Trendy štítky
+  toc: Obsah
+
+copyright:
+  # Shown at the bottom of the post
+  license:
+    template: Tento článek je autorem licencován pod :LICENSE_NAME.
+    name: CC BY 4.0
+    link: https://creativecommons.org/licenses/by/4.0/
+
+  # Displayed in the footer
+  brief: Některá práva vyhrazena.
+  verbose: >-
+    Není-li uvedeno jinak, jsou články na tomto webu autorem licencovány
+    pod licencí Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+meta: Tento blog používá :PLATFORM s motivem :THEME.
+
+not_found:
+  statment: Hupsík dupsík! Na téhle URL adrese nic není.
+
+notification:
+  update_found: Je k dispozici nová verze obsahu.
+  update: Aktualizovat
+
+# ----- Posts related labels -----
+
+post:
+  written_by:
+  posted: Zveřejněno
+  updated: Aktualizováno
+  words: slov
+  pageview_measure: zhlednutí
+  read_time:
+    unit: min
+    prompt: čtení
+  relate_posts: Další čtení
+  share: Sdílet
+  button:
+    next: Novější
+    previous: Starší
+    copy_code:
+      succeed: Zkopírováno!
+    share_link:
+      title: Kopírovat odkaz
+      succeed: Zkopírováno!
+  # pinned prompt of posts list on homepage
+  pin_prompt: Připnutý
+
+# Date time format.
+# See: <http://strftime.net/>, <https://day.js.org/docs/en/display/format>
+df:
+  post:
+    strftime: '%e. %m. %Y'
+    dayjs: 'll'
+  archives:
+    strftime: '%m'
+    dayjs: 'MMM'
+
+# categories page
+categories:
+  category_measure: × kategorie
+  post_measure: × článek
