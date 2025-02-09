@@ -34,7 +34,7 @@ Píše se rok 2013 a Nečasova vláda vydává [usnesení č. 203](https://apps.
 
 > „Česká republika bude garantovat, že nebude blokovat komukoliv přístup k internetu, případně přístup ke konkrétním internetovým stránkám nebo on-line službám.“
 
-Kompletní dokument je dostupný [zde](http://www.vlada.cz/assets/media-centrum/aktualne/Digitalni-Cesko-v--2-0_120320.pdf) a ono opatření je uvedeno v části 5.2., ve které jsou dále napsány i mnohem zajímavější věci:
+Kompletní dokument je dostupný [zde](https://vlada.gov.cz/assets/media-centrum/aktualne/Digitalni-Cesko-v--2-0_120320.pdf) a ono opatření je uvedeno v části 5.2., ve které jsou dále napsány i mnohem zajímavější věci:
 
 > „V praxi některé státy přistoupily k tomu, že vytvářejí seznamy internetových stránek, které údajně obsahují protiprávní obsah a poskytovatelé internetového připojení v tomto státě pak mají povinnost zablokovat svým uživatelům přístup k těmto stránkám bez ohledu na to, zda se na těchto stránkách nachází i legální obsah. Uvedené tendence vláda považuje za nebezpečné, neboť mohou vést až k omezení základních lidských práv (právo na informace, ochrana soukromého a rodinného života).“
 
